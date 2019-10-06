@@ -3,6 +3,13 @@
 Summer 2019
 
 
+## Suggested Reading
+
+- (Verma, 2015) [Succeeding in Rutgers Computer Science](https://vverma.net/succeeding-in-rutgers-cs.html) by [Vaibhav Verma](https://github.com/v): V wrote the original guide. He also helped start USACS and HackRU.
+
+- [Advice for Computer Science College Students](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/): Joel is the CEO of Stack Overflow and generally a big-person-in-tech.
+
+
 ## Background
 
 If you ask 100 different Computer Science graduates how to succeed in the CS department, you’re likely to get 100 different answers. But I’m sitting here in my apartment thinking about what I would have told myself when I started at Rutgers. This guide will reflect those thoughts.
@@ -26,12 +33,6 @@ I mention often the way I did things; by no means is this the only road to succe
 
 
 # Appendix
-
-## Suggested Reading
-
-- (Verma, 2015) [Succeeding in Rutgers Computer Science](https://vverma.net/succeeding-in-rutgers-cs.html) by [Vaibhav Verma](https://github.com/v): V wrote the original guide. He also helped start USACS and HackRU.
-
-- [Advice for Computer Science College Students](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/): Joel is the CEO of Stack Overflow and generally a big-person-in-tech.
 
 Other awesome and successful people will share their own experiences and lessons below.
 
