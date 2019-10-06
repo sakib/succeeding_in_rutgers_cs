@@ -36,7 +36,7 @@ Job Application Season™ is stressful. It’s like a part-time job while you’
 ## Resources to ace your interviews
 First, read this [introductory guide](https://triplebyte.com/blog/how-to-pass-a-programming-interview) from TripleByte.
 
-Next, read through my [systematic interviewing process](https://pastebin.com/d0rJp2G6). Good candidates can run through 2-3 questions per 45-minute interview session following some version of the above process. I would ask peers and alumni to mock interview me and practice this step-by-step until it was totally ingrained into the way I did interviews.
+Next, read through my [systematic interviewing process](INTERVIEWING.md). Good candidates can run through 2-3 questions per 45-minute interview session following some version of the above process. I would ask peers and alumni to mock interview me and practice this step-by-step until it was totally ingrained into the way I did interviews.
 
 I recommend doing interviews in Python, since you can do more stuff faster and be less caught up in the syntax. But pick whatever language you like and stick to it. You should be grinding Leetcode easy/medium questions for the whole month before your interviews to maximize how many patterns you’ll recognize during the real thing.
 
@@ -80,35 +80,3 @@ Also, follow other university lecture series, like [MIT’s OpenCourseWare](http
 
 ## Build projects as a supplement
 Turn your ability to compartmentalize and keep a tight schedule into habits. Having these habits will help you find time to explore your own curiosities by building projects. Some of my favorite college memories involve making crazy stuff with strangers at hackathons halfway down the coast, and student orgs will organize buses or carpools to and from these kinds of events. But keep in mind this isn’t a replacement for good grades; you should already have a good academic record as a foundation before you think about extra stuff like this.
-
-## Systematic Interview Process
-1. Ask intelligent clarifying questions: for *this* input, do I get *this* output? Your goal should be to really understand the problem.
-
-2. Build your set of 2-3 *comprehensive* test cases. Consider edge cases out loud and how to handle them. Write the cases out so you don't forget.
-
-3. Now that you know your program's desired behavior, sketch out 2-4 algorithms to solve the problem. 
-  a. Always start with the dumbest brute-force algorithm and gradually improve on it by recognizing places you're wasting computation.
-  b. Brainstorm things you know like dynamic programming, visualizing the problem as a graph/tree, etc.
-  c. In the worst case, you have 1 dumb, brute-force algorithm that you can technically implement.
-
-4. For each of your 2-4 algorithms, list next to them their expected time and space complexities. Optionally, note their simplicity/readability as well.
-Example:
-			    Time		  Space		  Simple?
-Algo 1:		O(n^2)		O(1)		  yes
-Algo 2:		O(n)		  O(n)		  maybe
-Algo 3: 	O(log n)	O(n^2)		eh?
-
-5. Compare and contrast the algorithms out loud, taking into consideration all of the parameters you've laid out. Other things to note are code length, time limitations, system capabilities (what's the I/O bandwidth?), and your own ability/confidence in writing out the solutions in full. Only commit to one approach after consulting your interviewer for their preference (if they have any).
-
-6. Important: sketch out exactly how exactly you're going to implement your chosen solution. Anticipate what methods you're going to need, their signatures, runtimes and input/outputs. This is better than getting deep into your solution and realizing that one code segment is better off being modularized for cleanliness/usability, or realizing that another solution is better entirely.
-Example: Given a binary tree, print out all paths that sum to a given target value.
-You might think to use BFS here, but DFS is better because then you can just print out the values of the nodes when your recursion propagates back ui rather than keeping auxiliary data structures to track your paths.
-
-7. Start implementing your solution in code. Don't make them ask you to do this. This should be ~5 minutes into the interview now.
-If one segment of code is going to take a significant chunk of time and isn't part of your main algorithm, offload it to another method, assume it'll work and tell interviewer you'll implement it later if you have time, then continue. Your main algorithm is the main priority.
-
-8. If you get to this point, immediately run your algorithm on 1-2 of your test cases. There's no need to run line-by-line, just make sure it works - it's great if you catch your own mistakes here, so that the interviewer sees that you're self-righting.
-
-9. Ideally by this point, your code is clean, modularized and ready-to-run. But if it's not, scan it now for readability, runtime, etc. and speak your thoughts.
-
-10. The interviewer should be satisfied now and will probably take a picture of your work.
