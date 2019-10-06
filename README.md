@@ -1,14 +1,6 @@
 # Succeeding in Rutgers CS
+
 Summer 2019
-
-
-## Suggested Reading
-
-- (Verma, 2015) [Succeeding in Rutgers Computer Science](https://vverma.net/succeeding-in-rutgers-cs.html) by [Vaibhav Verma](https://github.com/v)
-V wrote the original guide. He also helped start USACS and HackRU.
-
-- [Advice for Computer Science College Students](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/)
-	Joel is the CEO of Stack Overflow and generally a big-person-in-tech.
 
 
 ## Background
@@ -17,24 +9,29 @@ If you ask 100 different Computer Science graduates how to succeed in the CS dep
 
 I spent 4 years in the CS program and took a whole lot of undergraduate and graduate courses. I was a Learning Assistant for CS111 for one year, a Teaching Assistant for CS112 next year, and a Part-Time Lecturer for CS344 next year. I also taught a First-Year Interest Group Seminar my final year. I was President of Rutgers USACS for 2 years, a HackRU director for 2 years, and a mentor for the hackNY summer fellowship for 2 years.
 
+## Disclaimer
 
-## Foreword
-
-DISCLAIMER: Most of this doesn’t apply until 25% of the way through your freshman year - initially, just focus on finding your rhythm and getting somewhat comfortable with college life. I talk about a lot of things in this guide and it can get overwhelming, but remember that you have years to consider all these points, and they’ll be pretty busy and transformational years of your life.
+Most of this doesn’t apply until halfway through your freshman year - initially, just focus on finding your rhythm and getting somewhat comfortable with college life. There's a lot to being successful and it can get overwhelming, but remember that you have years to consider all these points, and they’ll be pretty busy and transformational years of your life.
 
 I mention often the way I did things; by no means is this the only road to success. Everyone has their own timeline, do what’s best for you, hopefully this makes you think. I’m writing this more for underclassmen, but the points are still valid for upperclassmen. If you’re older and don’t care, just skip to the jobs section or message me on Facebook for referrals.
 
 
 # Guide
 
+## [General Principles](GENERAL_PRINCIPLES.md)
+
 ## [Academics](ACADEMICS.md)
 
 ## [Jobs](JOBS.md)
 
-## [General Principles](GENERAL_PRINCIPLES.md)
-
 
 # Appendix
+
+## Suggested Reading
+
+- (Verma, 2015) [Succeeding in Rutgers Computer Science](https://vverma.net/succeeding-in-rutgers-cs.html) by [Vaibhav Verma](https://github.com/v): V wrote the original guide. He also helped start USACS and HackRU.
+
+- [Advice for Computer Science College Students](https://www.joelonsoftware.com/2005/01/02/advice-for-computer-science-college-students/): Joel is the CEO of Stack Overflow and generally a big-person-in-tech.
 
 Other awesome and successful people will share their own experiences and lessons below.
 
