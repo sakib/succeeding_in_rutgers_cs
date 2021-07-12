@@ -8,7 +8,7 @@ I like lists so I made this and whenever I did a mock interview with someone, I 
 
 3. Now that you know your program's desired behavior, sketch out 2-4 algorithms to solve the problem. Always start with the dumbest brute-force algorithm and gradually improve on it by recognizing places you're wasting computation. Brainstorm things you know like dynamic programming, visualizing the problem as a graph/tree, etc. In the worst case, you have 1 dumb, brute-force algorithm that you can technically implement.
 
-4. For each of your 2-4 algorithms, list next to them their expected time and space complexities. Optionally, note their simplicity/readability as well.
+4. For each of your 2-4 algorithms, list next to them their expected time and space complexities. Optionally, note their simplicity/readability as well. Make sure to list out all relevant parameters before you say anything like "this is O(N)!"
 
   | Algo |   Time   | Space  | Simple? |
   | ---- | -------- | ------ | ------- |
